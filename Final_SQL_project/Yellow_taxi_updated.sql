@@ -61,3 +61,4 @@ from "yellow_tripdata_2015-01") as "duration"
 where "day_name" like 'sund%'
 group by 2
 order by 1
+
